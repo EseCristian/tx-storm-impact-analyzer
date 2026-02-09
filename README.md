@@ -95,16 +95,16 @@ applications.
 ---
 
 ## Repository Structure
-
+```
 tx-storm-impact-analyzer/
-│
 ├── src/ # Data ingestion and processing scripts
 ├── notebooks/ # EDA and modeling notebooks
 ├── reports/
-│ └── figures/ # Saved visualizations
+│   └── figures/ # Saved visualizations
 ├── data/ # Ignored (raw and processed datasets)
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
